@@ -1,3 +1,3 @@
 # chinmay-dev
 This is my first Git Repository.
-Author-CHinmay Inchekar
+Author-Chinmay Inchekar
